@@ -9,6 +9,10 @@
 
 **Port:** `2200`
 
+**User:** `grader`
+
+**Password:** `graderpass`
+
 **Homepage:** http://54.234.125.1/
 
 
