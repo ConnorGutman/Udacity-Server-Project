@@ -3,16 +3,19 @@
 
 -----
 
-##### Server Information:
+#### Server Information:
+
 **IP address:** `54.234.125.1`
+
 **Port:** `2200`
+
 **Homepage:** http://54.234.125.1/
 
 
 -----
 
 
-##### Actions:
+#### Actions:
 * Updated packages
 * Created user `grader` with sudo access
 * Generated SSH key for `grader`
@@ -30,5 +33,5 @@
 -----
 
 
-##### Third-Party Resources:
+#### Third-Party Resources:
 When running into issues with this project, I ocasionally referred to Digital Ocean's [Flask Ubuntu VPS tutorial](https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps). Digital Ocean has a lot of great resource for getting started with a VPS.
