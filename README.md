@@ -20,7 +20,7 @@
 
 
 #### Actions:
-* Updated packages
+* Updated packages with `sudo apt-get update`
 * Created user `grader` with sudo access
 * Generated SSH key for `grader`
 * Set port `2200`, `80`, and `123` to allow
